@@ -1,4 +1,8 @@
 {
+  "name": "ali-re",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
     "build": "tsc -b && vite build",
@@ -9,7 +13,7 @@
     "react-dom": "latest"
   },
   "devDependencies": {
-    "vite": "latest",
-    "typescript": "latest"
+    "typescript": "latest",
+    "vite": "latest"
   }
 }
